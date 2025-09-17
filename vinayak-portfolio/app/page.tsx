@@ -119,7 +119,7 @@ export default function Portfolio() {
               <div className="relative">
                 <div className="w-80 h-80 rounded-full overflow-hidden border-4 border-gray-700">
                   <Image
-                    src="/professional-headshot-of-young-indian-software-eng.jpg"
+                    src="/IMG_2245 2.jpg"
                     alt="Vinayak Annigeri"
                     width={320}
                     height={320}
